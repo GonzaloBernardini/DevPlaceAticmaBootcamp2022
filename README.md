@@ -1,5 +1,5 @@
 # DevPlaceAticmaBootcamp2022
-Challenge para el Bootcamp C# Backend de la empresa Devplace en asociacion con Aticma
+Challenge para el Bootcamp C# Backend de la empresa Devplace en asociación con Aticma
 
 *Lamentablemente no llegué con el tiempo para el script sql challenge, el cual subiré en la semana(a fines de dejar completo el repositorio)*
 
