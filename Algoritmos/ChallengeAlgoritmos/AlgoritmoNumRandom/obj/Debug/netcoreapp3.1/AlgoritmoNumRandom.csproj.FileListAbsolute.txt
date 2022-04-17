@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\bin\Debug\netcoreapp3.1\AlgoritmoNumRandom.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\bin\Debug\netcoreapp3.1\AlgoritmoNumRandom.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\bin\Debug\netcoreapp3.1\AlgoritmoNumRandom.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\bin\Debug\netcoreapp3.1\AlgoritmoNumRandom.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\bin\Debug\netcoreapp3.1\AlgoritmoNumRandom.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\bin\Debug\netcoreapp3.1\AlgoritmoNumRandom.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoNumRandom\obj\Debug\netcoreapp3.1\AlgoritmoNumRandom.genruntimeconfig.cache

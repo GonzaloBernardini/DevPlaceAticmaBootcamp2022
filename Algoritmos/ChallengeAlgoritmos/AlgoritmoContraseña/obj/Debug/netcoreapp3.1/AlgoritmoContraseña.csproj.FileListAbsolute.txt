@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\bin\Debug\netcoreapp3.1\AlgoritmoContraseña.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\bin\Debug\netcoreapp3.1\AlgoritmoContraseña.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\bin\Debug\netcoreapp3.1\AlgoritmoContraseña.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\bin\Debug\netcoreapp3.1\AlgoritmoContraseña.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\bin\Debug\netcoreapp3.1\AlgoritmoContraseña.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\bin\Debug\netcoreapp3.1\AlgoritmoContraseña.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoContraseña\obj\Debug\netcoreapp3.1\AlgoritmoContraseña.genruntimeconfig.cache

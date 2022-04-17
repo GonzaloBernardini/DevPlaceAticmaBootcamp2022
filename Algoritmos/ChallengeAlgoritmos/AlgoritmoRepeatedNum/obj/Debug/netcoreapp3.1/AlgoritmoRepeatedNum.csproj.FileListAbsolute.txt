@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\bin\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\bin\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\bin\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\bin\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\bin\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\bin\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.genruntimeconfig.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoRepeatedNum\obj\Debug\netcoreapp3.1\AlgoritmoRepeatedNum.csproj.AssemblyReference.cache

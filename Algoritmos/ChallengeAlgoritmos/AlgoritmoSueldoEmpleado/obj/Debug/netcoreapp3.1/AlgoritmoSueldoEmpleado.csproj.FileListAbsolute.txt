@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\bin\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\bin\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\bin\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\bin\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\bin\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\bin\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoSueldoEmpleado\obj\Debug\netcoreapp3.1\AlgoritmoSueldoEmpleado.genruntimeconfig.cache

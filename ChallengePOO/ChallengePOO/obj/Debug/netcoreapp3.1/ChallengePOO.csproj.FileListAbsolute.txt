@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\bin\Debug\netcoreapp3.1\ChallengePOO.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\bin\Debug\netcoreapp3.1\ChallengePOO.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\bin\Debug\netcoreapp3.1\ChallengePOO.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\bin\Debug\netcoreapp3.1\ChallengePOO.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\bin\Debug\netcoreapp3.1\ChallengePOO.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\bin\Debug\netcoreapp3.1\ChallengePOO.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\ChallengePOO\ChallengePOO\obj\Debug\netcoreapp3.1\ChallengePOO.genruntimeconfig.cache

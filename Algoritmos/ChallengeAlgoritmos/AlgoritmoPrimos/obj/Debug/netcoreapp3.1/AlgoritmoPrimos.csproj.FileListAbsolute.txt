@@ -1,0 +1,14 @@
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\bin\Debug\netcoreapp3.1\AlgoritmoPrimos.exe
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\bin\Debug\netcoreapp3.1\AlgoritmoPrimos.deps.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\bin\Debug\netcoreapp3.1\AlgoritmoPrimos.runtimeconfig.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\bin\Debug\netcoreapp3.1\AlgoritmoPrimos.runtimeconfig.dev.json
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\bin\Debug\netcoreapp3.1\AlgoritmoPrimos.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\bin\Debug\netcoreapp3.1\AlgoritmoPrimos.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.csproj.AssemblyReference.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.AssemblyInfoInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.AssemblyInfo.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.csproj.CoreCompileInputs.cache
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.dll
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.pdb
+C:\Users\gbern\Desktop\GONZA\Programacion\DevPlaceBootcampC#\Algoritmos\ChallengeAlgoritmos\AlgoritmoPrimos\obj\Debug\netcoreapp3.1\AlgoritmoPrimos.genruntimeconfig.cache
